@@ -1,2 +1,3 @@
 Tercer archivo en Git
  agregando lineas de texto al archivo 3
+Tercer linea para el archivo3
